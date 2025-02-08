@@ -3,19 +3,18 @@
 Welcome to my GitHub profile! I'm a passionate developer with experience in **Go** and **PHP**. Below, you’ll find some of my work, contributions, and areas of expertise.
 
 ## 🚀 About Me
-- 💻 I’m currently building projects with **Go** and **PHP**.
-- 📚 I’m always learning new things and improving my skills, especially in **backend development**.
-- 🌱 I’m passionate about creating **efficient, scalable** solutions for the web.
+- 💻 I’m currently building projects with **Go**, **PHP** And **Python**.
+- 📚 I’m always learning new things and improving my skills, especially in **Low-level programming**.
+- 🌱 I’m passionate about creating **efficient, scalable** solutions.
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the tools and technologies I work with:
 
-- **Languages:** Go, PHP, JavaScript
-- **Web Development:** HTML, CSS, Laravel (PHP), Gin (Go)
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, Composer, GORM (Go ORM)
-- **Cloud:** AWS, DigitalOcean
+- **Languages:** Go, PHP, JavaScript, Python
+- **Web Development:** HTML, CSS, Laravel (PHP), Gin (Go), Odoo
+- **Databases:** MySQL, PostgreSQL, Sqlite, Pocketbase
+- **Tools:** Git, Docker
 
 ## 📈 GitHub Stats
 
