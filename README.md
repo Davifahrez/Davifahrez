@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **Go
 Here are some of the tools and technologies I work with:
 
 - **Languages:** Go, PHP, JavaScript, Python
-- **Web Development:** HTML, CSS, Laravel (PHP), Gin (Go), Odoo
+- **Web Development:** HTML, CSS, Laravel (PHP), Odoo
 - **Databases:** MySQL, PostgreSQL, Sqlite, Pocketbase
 - **Tools:** Git, Docker
 
