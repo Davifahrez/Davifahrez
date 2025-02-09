@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **Go
 - 💻 I’m currently building projects with **Go**, **PHP** And **Python**.
 - 📚 I’m always learning new things and improving my skills, especially in **Low-level programming**.
 - 🌱 I’m passionate about creating **efficient, scalable** solutions.
+- 🎂 **Age**: ![Age Badge](https://img.shields.io/badge/age-18-brightgreen) (calculated manually or dynamically)
 
 ## 🛠️ Technologies & Tools
 
